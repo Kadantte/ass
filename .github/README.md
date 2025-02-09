@@ -1,13 +1,21 @@
+# This project is no longer maintained. see [yaass] instead.
+
+ass will no longer receive any updates. Please consider using [yaass] instead. Join the yaass [Discord server][Discord invite] for information and support.
+
+[yaass]: https://github.com/tycrek/yaass
+
+<br><br><br><br><br><br><br><br>
+
 <div align="center">
-  <h1><a href="https://github.com/tycrek/ass" target="_blank"><img height="180" alt="ass" src="https://imagedelivery.net/cNsTmYlz178gQNL42swQfw/44357fc5-8afd-4a17-76b9-556660b5fc00/public"></a></h1>
-</div>
+  <h1><a href="https://github.com/tycrek/ass" target="_blank"><img height="180" alt="ass" src="https://i.tycrek.dev/ass-round-square-logo-white-with-text"></a></h1>
 
 ![GitHub package.json version]
 ![GitHub license]
 ![GitHub last commit]
-![Lines of code]
 ![GitHub Repo stars]
 [![Discord badge]][Discord invite]
+
+</div>
 
 **ass** is a self-hosted ShareX upload server written in Node.js. I initially started this project purely out of spite. ass aims to be as **unopinionated** as possible, giving users & hosts alike the ability to modify nearly everything.
 
@@ -15,18 +23,19 @@ By default, ass comes with a resource viewing page, which includes metadata abou
 
 ### Notice (Sep 2023)
 
-The current release version 0.14.4 is now in "maintenence mode". What this means is I'll only be providing updates to catastrophic issues. However! I'm currently working on [a new version](https://github.com/tycrek/ass/pull/220), 0.15.0, which is a lot more stable and organized. I have no ETA but please know that I'm continuing to work on it when I can. Version 0.14.4 is still functional, just a bit rough around the edges.
+The current release version 0.14.x is now in **maintenence mode**. What this means is I'll only be providing updates to catastrophic issues.
 
-#### Developers ❤
+However! I'm currently working on [a new version](https://github.com/tycrek/ass/pull/220), 0.15.0, which is a lot more stable and organized. I have no ETA but please know that I'm continuing to work on it when I can. Version 0.14.x is still functional, just a bit rough around the edges.
+
+#### Developers 🧡
 
 ass was designed with developers in mind. If you are a developer & want something changed to better suit you, let me know & we'll see what we can do!
 
 [GitHub package.json version]: https://img.shields.io/github/package-json/v/tycrek/ass?color=fd842d&style=for-the-badge
 [GitHub license]: https://img.shields.io/github/license/tycrek/ass?color=FD7C21&style=for-the-badge
 [GitHub last commit]: https://img.shields.io/github/last-commit/tycrek/ass?color=FD710D&style=for-the-badge
-[Lines of code]: https://img.shields.io/tokei/lines/github/tycrek/ass?color=F26602&label=LINES&style=for-the-badge
-[GitHub Repo stars]: https://img.shields.io/github/stars/tycrek/ass?color=DE5E02&style=for-the-badge
-[Discord badge]: https://img.shields.io/discord/848274994375294986?label=Support%20server&logo=Discord&logoColor=FFF&style=for-the-badge
+[GitHub Repo stars]: https://img.shields.io/github/stars/tycrek/ass?color=F26602&style=for-the-badge
+[Discord badge]: https://img.shields.io/discord/848274994375294986?label=Discord&logo=Discord&logoColor=FFF&style=for-the-badge
 [Discord invite]: https://discord.gg/wGZYt5fasY
 [create their own frontends]: #custom-frontends
 
